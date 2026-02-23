@@ -1,0 +1,10 @@
+.DS_Store
+objects/*
+notes/*
+outputs/*
+raw_data/*
+
+.conda/
+.venv/
+__pycache__/
+*.py[cod]
